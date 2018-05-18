@@ -17,3 +17,15 @@
     ```
 
 3. `localhost:8080`으로 접속합니다.
+
+## Troubleshooting
+
+* **Windows** 500 errer  
+  Carriage Return 문제  
+  **참고:** [윈도우에서 줄바꿈을 Line Feed(LF, \n)문자로 하기](https://5pecia1.github.io/posts/2016-11-22-use-lf-with-vim-vscode-git-on-windows.html)
+
+* **Unix** 500 error  
+  읽기 불가 문제
+  ```bash
+  chmod a+x -R 
+  ```
