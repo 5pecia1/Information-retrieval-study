@@ -27,5 +27,5 @@
 * **Unix** 500 error  
   읽기 불가 문제
   ```bash
-  chmod a+x -R .
+  $ chmod a+x -R .
   ```
